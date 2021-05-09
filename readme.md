@@ -5,5 +5,5 @@ Jednadvacátého května jsem opustil mé rodné Brno a odjel na stáž do něme
 
 ## O čem se tu dočtete?
 
-[![Já a Ernst Abbe](imgs/ja_a_abbe.jpg)](0_proc_a_kam.md)
-# [0. zápis - proč a kam jedu?](0_proc_a_kam.md)
+[![Já a Ernst Abbe](0/ja_a_abbe.jpg)](0/index.md)
+# [0. zápis - proč a kam jedu?](0/index.md)
