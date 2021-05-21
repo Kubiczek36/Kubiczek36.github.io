@@ -4,7 +4,7 @@
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cz/album/shes-leaving-home/1441164604?i=1441164863&l=cs"></iframe>
 
-<iframe src="https://open.spotify.com/embed/track/3PjMtNzwhDHqxoKudm6GvF" width="100%"  height="150" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3PjMtNzwhDHqxoKudm6GvF" width="100%"  frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 Stojím na nástupišti Královopolského nádraží a je to zvláštní. Trochu si připadám jak Harry Potter, jen teda nemám školní uniformu a má taška není zdaleka tak stylová jako kufry ve filmu. Dnes jedu do Prahy a zítra přes Drážďany, Halle až do Jeny.
