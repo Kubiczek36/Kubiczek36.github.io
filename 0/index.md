@@ -51,3 +51,5 @@ S sebou jsem si přibalil šest lahví Moravského vína a tři litry Dalešick�
 Ale to uvidíme. Teď už jen přespat u kamarádky v Praze a hurá do Jeny.
 
 Bis bald.
+
+> Jö, pokud narazíte na nějaký nedostatek (a že jich tu beztak je tuna), nebo jen tak budete chtít napsat, tak neváhejte a pište!
