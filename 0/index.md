@@ -6,9 +6,10 @@
 
 <iframe src="https://open.spotify.com/embed/track/3PjMtNzwhDHqxoKudm6GvF" width="500" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-![Tak jsem si zabalil. Taška a batůžek na nástupišti.](taska.jpg)
 
 Stojím na nástupišti Královopolského nádraží a je to zvláštní. Trochu si připadám jak Harry Potter, jen teda nemám školní uniformu a má taška není zdaleka tak stylová jako kufry ve filmu. Dnes jedu do Prahy a zítra přes Drážďany, Halle až do Jeny.
+
+![Tak jsem si zabalil. Taška a batůžek na nástupišti.](taska.jpg)
 
 Ještě jsem dnes byl doměřit praktika ve škole, se spolužáky si zašel na kebap. Odpoledne jsem si skočil do Rebelbeanu pro výborný batchbrew a na nějakou dobu se rozloučil s oborou na holedné. Tohle místo mi bude celkem chybět.
 
