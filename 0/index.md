@@ -1,17 +1,18 @@
 # 0. zápis - proč a kam jedu?
 
-> Říkal jsem si, že předtím než začnete číst si k tomu pusťte hudbu. Tentokrát doporučuji _She's leaving home_ z legendárního Beatlesáckého alba Sgt. Pepper's Lonely Hearts Club Band. Těžko bych hledal něco vhodnějšího. Poslední rok byl celkem osamělý - She's leaving home after living alone for so many years. Brno je úžasné a málokde jsou tak skvělé podmínky  - We gave her everything money could buy. Zas musím zdůraznit, že se mnou v Brně bylo zacházeno neprosto prvotřídně, nikdo neudělal nic špatně a rodiče po mě tolik nesmutní (aspoň myslím teda). Každopádně si to pusťte.
+> Říkal jsem si, že předtím než začnete číst, si k tomu pusťte hudbu. Tentokrát doporučuji _She's leaving home_ z legendárního Beatlesáckého alba Sgt. Pepper's Lonely Hearts Club Band. Těžko bych hledal něco vhodnějšího. Poslední rok byl celkem osamělý - She's leaving home after living alone for so many years. Brno je úžasné a málokde jsou tak skvělé podmínky  - We gave her everything money could buy. Zas musím zdůraznit, že se mnou v Brně bylo zacházeno neprosto prvotřídně, nikdo neudělal nic špatně a rodiče po mě tolik nesmutní (aspoň myslím teda). Každopádně si to pusťte.
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cz/album/shes-leaving-home/1441164604?i=1441164863&l=cs"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/3PjMtNzwhDHqxoKudm6GvF" width="100%"  frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+>
 
-Stojím na nástupišti Královopolského nádraží a je to zvláštní. Trochu si připadám jak Harry Potter, jen teda nemám školní uniformu a má taška není zdaleka tak stylová jako kufry ve filmu. Dnes jedu do Prahy a zítra přes Drážďany, Halle až do Jeny.
+Stojím na nástupišti Královopolského nádraží a je to zvláštní. Trochu si připadám jak Harry Potter, jen teda nemám školní uniformu a má taška není zdaleka tak stylová jako kufry ve filmu. Dnes jedu sice jen do Prahy, ale zítra jedu přes Drážďany, Halle až do Jeny, kde mi začíná cvouměsíční stáž.
 
 ![Tak jsem si zabalil. Taška a batůžek na nástupišti.](taska.jpg)
 
-Ještě jsem dnes byl doměřit praktika ve škole, se spolužáky si zašel na kebap. Odpoledne jsem si skočil do Rebelbeanu pro výborný batchbrew a na nějakou dobu se rozloučil s oborou na holedné. Tohle místo mi bude celkem chybět.
+Ještě jsem dnes byl doměřit praktika ve škole, se spolužáky jsem si zašel na kebap. Odpoledne jsem si skočil do Rebelbeanu pro výborný batchbrew a na nějakou dobu se rozloučil s oborou na holedné. Tohle místo mi bude celkem chybět.
 
 ![Zelený les v oboře](obora.jpg)
 
@@ -46,9 +47,7 @@ Už při shánění bydlení jsem totiž narazil na několik velmi milých a vl�
 
 Například Eva mi nabízela pokoj její kamarádky, která se do něj nakonec nastěhovala zpět a tudíž nebyl volný pro mě. Tak právě jí bylo velmi líto, že mne musela odmítnou a hned mi začala pomáhat shánět bydlení jinde. Zeptala se kamarádů a poslala mi pár inzerátů z internetu. Velmi mile mě překvapila její ochota mi pomoct. Skoro si teď říkám, že snad s žádným národem zatím nemám tak pozitivní zkušenost jako s Němci.
 
-S sebou jsem si přibalil šest lahví Moravského vína a tři litry Dalešického piva, tak věřím, že mi pomohou mezi místní zapadnout.
-
-Ale to uvidíme. Teď už jen přespat u kamarádky v Praze a hurá do Jeny.
+S sebou jsem si přibalil šest lahví Moravského vína a tři litry Dalešického piva, tak věřím, že mi pomohou mezi místní zapadnout.Ale to teprve uvidíme. Teď už jen přespat u kamarádky v Praze a hurá do Jeny.
 
 Bis bald.
 
