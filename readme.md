@@ -1,4 +1,4 @@
-# Kuba's deutsches manchmalsbuch
+# Kuba's Deutsches Manchmalsbuch
 > Chcete-li Kubův německý občasník.
 
 Jednadvacátého května jsem opustil mé rodné Brno a odjel na stáž do německé Jeny. Tady se můžete dočíst o mých pocitech dojmech a zážitcích. 
