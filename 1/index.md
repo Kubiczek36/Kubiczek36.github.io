@@ -2,7 +2,7 @@
 
 > Tentokrát nemohu doporučit nic jiného než Deutsche Bahn od Wise Guys (spolužácí z Křenky znají). Na videu je pěkně vidět jaká je úroveň Německých drah - vyjdou tak nastejno jako ty české.
 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/wXjhszy2f9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315"  src="https://www.youtube-nocookie.com/embed/wXjhszy2f9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Když je člověk zvyklý vyspávat do půl desáté, tak budíček v sedm ráno není úplně příjemný. Po chvíli vstanu z nafukovací matrace v obýváku kamarádčina bytu. Domlouvali jsme se, že v sedm budu vstávat a už je 7:15. Tak kde je? Opatrně vejdu do jejího pokoje a ověřím si, že je vzhůru.
 
