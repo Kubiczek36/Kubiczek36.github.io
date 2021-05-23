@@ -61,7 +61,9 @@ Už od začátku jsem si říkal, že tu stáž prostě nezruším a pandemii na
 
 Před odjezdem jsem byl ve čtvrtek odpoledne na PCR testu. Po stěru jsem se modlil, aby vyšel negativní. On je totiž o dost citlivější než ty antigenní testy, co se používají plošně. Naštěstí druhý den přišla zpráva s výsledky a v ní stálo, že jsem negativní. Ufff… Takže už mě těžko mohlo něco zastavit. Ještě cestou do Prahy jsem vyplnil Elektronickou rezervaci cestujících (_die Anreiseanmeldung_ - všiměte si: čeština 3 slova a němčina si vystačí s jedním). Překvapilo mě, že formulář nebyl problém vyplnit v češtině. Dokonce i v potvrzovací SMS stálo:
 ```
-Prosím použijte následující kód pro potvrzení Vaší emailové adresy v Elektronické registraci cestujících:
+Prosím použijte následující kód pro
+potvrzení Vaší emailové adresy v
+Elektronické registraci cestujících:
 851-478
 
 Děkujeme Vám za pomoc.
