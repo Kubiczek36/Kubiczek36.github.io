@@ -8,7 +8,7 @@ Když je člověk zvyklý vyspávat do půl desáté, tak budíček v sedm ráno
 
 O chvíli později už do sebe láduji Müsli s jogurtem a kafe, tolik potřebný kofein k nastartování. Dojím a vidím, že je už skoro osm, tak rychle posbírám cestovní tašku, batoh, vak a plátěnku a ověšený jak vánoční stromeček utíkám na nádraží, kde nasedám do vlaku směr Drážďany. Milé bylo když k nám přišel pán s nabídkou občerstvení. Přišel a hned začal nabízet: "Zákusek ke kávičce pro slečnu, pivečko pro pány a podívejte, tady máme hořické trubičky s pendolínem." Byl milý a velmi dobře naladěný, až mi bylo líto, že si nic nekupuji.
 
-![Skály v Saském švýcarsku](saske_svycarksko.jpeg)
+![Skály v Saském švýcarsku](saske_svycarsko.jpeg)
 
 > Nemůžu si pomoct a neukázat skály, které jsem viděl všude okolo při průjezdu Českým i Saským švýcarskem. Někdy to tam musím prozkoumat.
 
