@@ -6,7 +6,7 @@ Jednadvacátého května jsem opustil mé rodné Brno a odjel na stáž do něme
 ## O čem se tu dočtete?
 
 # [1. zápis - cesta a zabydlení se](1/)
-[![Já a Ernst Abbe](1/thumbnail.jpeg)](1/) <!-- možná doplnit `html` místo `md`-->
+[![Kuba stepující v kupé](1/thubnail.jpeg)](1/) <!-- možná doplnit `html` místo `md`-->
 
 # [0. zápis - proč a kam jedu?](0/)
 [![Já a Ernst Abbe](0/ja_a_abbe.jpg)](0/) <!-- možná doplnit `html` místo `md`-->
