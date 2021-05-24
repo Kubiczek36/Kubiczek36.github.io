@@ -41,7 +41,7 @@ Jena Paradies, má cílová stanice. Konečně v cíli. Znovu ověšený jak vá
 
 > Nikoli s nebesy, nýbrž rovnou s nebesy. Pokud se vám to nezdá všiměte si futer hned vedle.
 
-Anjali mi ukazuje zbytek domu, v suterénu jsou dvě koupelny, další kuchaně a prádelna. V prvním patře je byt, kde někdo další bydlí a na půdě je další byt, kde bydlí rodina se dvěma dětma. Na vilce jsou pěkná vitrážová okna, skrz které prochází světlo na schodiště. Celkově na mě toto WG působí dost alternativně, je vidět, že nikdo tu nemá peníze, aby věci dělal na krásu, takže třeba kuchyň je v chodbičce asi 3.5 metru dlouhé a metr široké a hned vedle je  před schodištěm jídelní stůl. Vedle schodiště jsou poličky, v nichž člověk najde nádobí. Zpravu jsem malinko zaražený, ale nevadí mi to nijak.
+Anjali mi ukazuje zbytek domu, v suterénu jsou dvě koupelny, další kuchyně a prádelna. V prvním patře je byt, kde někdo další bydlí a na půdě je další byt, kde bydlí rodina se dvěma dětma. Na vilce jsou pěkná vitrážová okna, skrz které prochází světlo na schodiště. Celkově na mě toto WG působí dost alternativně, je vidět, že nikdo tu nemá peníze, aby věci dělal na krásu, takže třeba kuchyň je v chodbičce asi 3.5 metru dlouhé a metr široké a hned vedle je  před schodištěm jídelní stůl. Vedle schodiště jsou poličky, v nichž člověk najde nádobí. Zpravu jsem malinko zaražený, ale nevadí mi to nijak.
 
 ![Chodba našeho domu](chodba.jpeg)
 
@@ -55,7 +55,7 @@ I když bych neměl, tak si ještě skočím rychle na nákup a už se můžu vy
 
 ## Cestování pandemii navzdory
 
-Už od začátku jsem si říkal, že tu stáž prostě nezruším a pandemii navzdory do Jeny pojedu. Viděl jsem, že překračovat hranice jde. Na Instagramu nejeden člověk sdílel, že je někde u moře nebo jinde v zahraničí. Situaci jsem začal sledovat zhruba v půlce dubna, kdy jsem to i řešil s Bárou. Pokud si to pamatuji, tak tehdy u nás začaly čísla padat a Institut Roberta Kocha (RKI) nás přemístil z nejhorší kategorie do té o chlup lepší (oficiálně z _oblasti s vysokou incidencí_ do _rizikové oblasti_. Při podepisování smluv na Rektorátu jsem se s paní Pazourkovou domluvil na proplacení testu. Zároveň mi nabízela proplacení ubytování, ale jelikož mám nájemní smlouvu na 2,5 měsíce tak bych si pěti dny moc nepomohl.
+Už od začátku jsem si říkal, že tu stáž prostě nezruším a pandemii navzdory do Jeny pojedu. Viděl jsem, že překračovat hranice jde. Na Instagramu nejeden člověk sdílel, že je někde u moře nebo jinde v zahraničí. Situaci jsem začal sledovat zhruba v půlce dubna, kdy jsem to i řešil s Bárou. Pokud si to pamatuji, tak tehdy u nás začaly čísla padat a Institut Roberta Kocha (RKI) nás přemístil z nejhorší kategorie do té o chlup lepší (oficiálně z _oblasti s vysokou incidencí_ do _rizikové oblasti_). Při podepisování smluv na Rektorátu jsem se s paní Pazourkovou domluvil na proplacení testu. Zároveň mi nabízela proplacení ubytování, ale jelikož mám nájemní smlouvu na 2,5 měsíce tak bych si pěti dny moc nepomohl.
 
 ![Příjezdový formulář v češtině](formular.png)
 
@@ -80,7 +80,7 @@ Teď přemýšlím, jak dlouho mi to povinné izolování se vydrží. Říkám 
 
 ## Na závěr upřímná pravda o němcích
 
-Večer po příjezdu mi Bára přinesla peřinu a polštář, abych je nemusel táhnout z Brna. Zavedli jsme řeč na téma aktuální situace. Ptám se: “Oni i ti němci jsou podobně trpěliví jak češi, že?” “No, jsou o na tom chloupek líp, ale ne nějak zásadně.” 
+Večer po příjezdu mi Bára přinesla peřinu a polštář, abych je nemusel táhnout z Brna. Zavedli jsme řeč na téma aktuální situace. Ptám se: “Oni i ti němci jsou podobně trpěliví jak češi, že?” “No, jsou na tom o chloupek líp, ale ne nějak zásadně.” 
 
 A tak vidíte, že lidé jsou lidmi.
 
