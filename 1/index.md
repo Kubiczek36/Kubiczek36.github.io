@@ -39,7 +39,7 @@ Jena Paradies, má cílová stanice. Konečně v cíli. Znovu ověšený jak vá
 
 ![Má postel dva metry nad zemí](postel.jpeg)
 
-> Nikoli s nebesy, nýbrž rovnou s nebesy. Pokud se vám to nezdá všiměte si futer hned vedle.
+> Nikoli s nebesy, nýbrž rovnou na nebesích. Pokud se vám to nezdá všiměte si futer hned vedle.
 
 Anjali mi ukazuje zbytek domu, v suterénu jsou dvě koupelny, další kuchyně a prádelna. V prvním patře je byt, kde někdo další bydlí a na půdě je další byt, kde bydlí rodina se dvěma dětma. Na vilce jsou pěkná vitrážová okna, skrz které prochází světlo na schodiště. Celkově na mě toto WG působí dost alternativně, je vidět, že nikdo tu nemá peníze, aby věci dělal na krásu, takže třeba kuchyň je v chodbičce asi 3.5 metru dlouhé a metr široké a hned vedle je  před schodištěm jídelní stůl. Vedle schodiště jsou poličky, v nichž člověk najde nádobí. Zpravu jsem malinko zaražený, ale nevadí mi to nijak.
 
