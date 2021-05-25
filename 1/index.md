@@ -28,7 +28,7 @@ V sudetech se mě opustili spolucestující v mém kupé a během půlhodinky js
 
 Nádraží v Lipsku mě velmi překvapilo. Sice jsem nevystupoval, ale ještě nikdy jsem neviděl tak obří staré nádraží. Představte si halu pražského nádraží, jen dvakrát delší a třikrát širší. Nad krajní kolejí stálo číslo 22 (možná i 24 teď nevím přesně). 
 
-O dvě zastávky později přesedám v Halle na německou obdobu osobáku. Malinko mě udivuje, že na vlaku nikde nevidím logo Deutsche Bahn. Ale co? Odjezd a cílová stanice sedí. Co by to mělo být špatně? Nakonec se ve vlaku vystřídali dva vedoucí a ani jeden nedokázal načíst lístek, co jsem si koupil u Českých drah. Oboum jsem ukázal, že tam je dílová stanice Jena a že to je aplikace Českých drah. Oba pokrčili rameny, řekli si: ”divný” a popřáli mi šťastnou cestu. 
+O dvě zastávky později přesedám v Halle na německou obdobu osobáku. Malinko mě udivuje, že na vlaku nikde nevidím logo Deutsche Bahn. Ale co? Odjezd a cílová stanice sedí. Co by to mělo být špatně? Nakonec se ve vlaku vystřídali dva průvodčí a ani jeden nedokázal načíst lístek, co jsem si koupil u Českých drah. Oboum jsem ukázal, že tam je cílová stanice Jena a že to je aplikace Českých drah. Oba pokrčili rameny, řekli si: ”divný” a popřáli mi šťastnou cestu. 
 
 Cestou mě překvapilo míjet obří, několik kilometrů dlouhý, průmyslový komplex, který až podezřele připomínal areál u vídeňského letiště Schwechat. Později jsem si dohledal, že se jedná o areál Leuna Werke, jednu z největších chemiček v Německu. Na každé trubce jakoby bylo vidět, že ta zlatá léta této těžké chemičky už pominula s komunizmem.
 
