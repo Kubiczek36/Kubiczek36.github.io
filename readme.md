@@ -8,7 +8,7 @@ Jednadvacátého května jsem opustil mé rodné Brno a odjel na stáž do něme
 ## O čem se tu dočtete?
 
 # [2. zápis - první dojmy z Jeny](2/)
-[![Červená hvězda prozařuje naši chodbu a jídelnu](2/hvezda.jpeg))](2/) <!-- možná doplnit `html` místo `md`-->
+[![Červená hvězda prozařuje naši chodbu a jídelnu](2/hvezda.jpeg)](2/) <!-- možná doplnit `html` místo `md`-->
 
 -----
 
