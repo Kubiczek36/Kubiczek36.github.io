@@ -57,7 +57,7 @@ Další večer jsme měli schůzku, na které jsme se potkali všichni z našeho
 
 > Kulturní vložka __média v Německu:__
 > 
-> V Německu není jen jedna veřejnoprávní televize a jeden rozhlas, ale je jich několik. Jedná se o stanice jako ARD, ZDF, Deutsche Welle, Deutschlandfunk případně regionálnější média jako Norddeutscher Rundfunk (NDR) nebo další jsou na mapě z Wikipedie:
+> V Německu není jen jedna veřejnoprávní televize a jeden rozhlas, ale je jich několik. Jedná se o stanice jako ARD, ZDF, Deutsche Welle, Deutschlandfunk případně regionálnější média jako Norddeutscher Rundfunk (NDR) nebo další, která jsou na mapě z Wikipedie:
 ![Mapa německých stanic](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ARD_Karte.svg/1920px-ARD_Karte.svg.png)
 > Němci platí měsíčně koncesionářský poplatek (_die Rundfunkbeitrag_ nebo také _GEZ Gebühr_) 17,50 EUR, tento poplatek zahrnuje všechny stanice. Čili není to tak, že by platili jak češi zvlášť rozhlas a zvlášť televizi.
 > Jinak slovo slovo _die Runfunk_ sice primárně označuje rozhlas, ale často jej naleznete i v názvu televizí, viz třeba NDR. Tedy lze říct, že se jedná o médium, které informace vysílá, nikoliv tiskne.
@@ -78,4 +78,4 @@ O tom, že tvrzení Arnošta Goldflama z Lotranda a Zubejdy platí v Brně, nem�
 
 Inu svět je opravdu malý a o náhody v něm není nouze.
 
-> Děkuji všem, kdo nahlašují chyby. Věřím, že každý můj textu pro správného Grammarnazi musí být jak minové pole. Pokud byste se chtěli k čemukoli o čem píšu vyjádřit, doptat a nebo se jen tak ozvat tak pište nebo volejte, rád o vás uslyším.
+> Děkuji všem, kteří nahlašují chyby. Věřím, že každý můj textu pro správného Grammarnazi musí být jak minové pole. Pokud byste se chtěli k čemukoli o čem píšu vyjádřit, doptat a nebo se jen tak ozvat tak pište nebo volejte, rád o vás uslyším.
